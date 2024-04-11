@@ -1,0 +1,246 @@
+{
+  "header": {
+    "title": "Hi, I'm Gopal",
+    "description": "Experienced Flutter Developer and Team Lead with a passion for crafting high-quality mobile apps. Skilled in code review, task management, and clean architecture. Committed to fostering a collaborative learning environment. Author on Medium, sharing insights on mobile app development.",
+    "location": "Bhubaneswar, Odisha, India",
+    "isAvailableForProject": true,
+    "linkedin": {
+      "text": "Connect Me",
+      "link": "https://linkedin.com/"
+    },
+    "image": "https://gopalkrushnas063.github.io/images/photo.jpg",
+    "contacts": [
+      {
+        "icon": "https://gopalkrushnas063.github.io/images/icons8-linkedin-circled.gif",
+        "type": "linkedin",
+        "link": "https://linkedin.com/"
+      },
+      {
+        "icon": "https://gopalkrushnas063.github.io/images/icons8-github.gif",
+        "type": "github",
+        "link": "https://github.com/gopalkrushnas063"
+      }
+    ]
+  },
+  "aboutMe": {
+    "title": "Interested in learning more about me?",
+    "description": "🚀 Flutter Developer & Team Lead 📱\nWith 2+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
+    "image": "https://gopalkrushnas063.github.io/images/photo.jpg"
+  },
+  "services": {
+    "text": "The services I am can help you:",
+    "items": [
+      {
+        "icon": "https://api.laam.my.id/assets/images/services/mobile.svg",
+        "title": "Mobile App Development",
+        "description": "Create seamless mobile experiences, custom solutions"
+      },
+      {
+        "icon": "https://api.laam.my.id/assets/images/services/fullstack.svg",
+        "title": "Full-Stack Development",
+        "description": "End-to-end solutions, frontend to backend development"
+      },
+      {
+        "icon": "https://api.laam.my.id/assets/images/services/consulting.svg",
+        "title": "Development Consulting",
+        "description": "Expert guidance for successful project outcomes"
+      }
+    ]
+  },
+  "skills": {
+    "text": "The skills, tools and technologies I am really good at:",
+    "items": [
+      {
+        "text": "Flutter",
+        "image": "https://api.laam.my.id/assets/images/skills/flutter.png",
+        "isBlack": false
+      },
+      {
+        "text": "Kotlin",
+        "image": "https://api.laam.my.id/assets/images/skills/kotlin.png",
+        "isBlack": false
+      },
+      {
+        "text": "Java",
+        "image": "https://api.laam.my.id/assets/images/skills/java.png",
+        "isBlack": false
+      },
+      {
+        "text": "Node.js",
+        "image": "https://api.laam.my.id/assets/images/skills/nodejs.png",
+        "isBlack": false
+      },
+      {
+        "text": "Nest.js",
+        "image": "https://api.laam.my.id/assets/images/skills/nestjs.png",
+        "isBlack": false
+      },
+      {
+        "text": "Express.js",
+        "image": "https://api.laam.my.id/assets/images/skills/expressjs.png",
+        "isBlack": true
+      },
+      {
+        "text": "Typescript",
+        "image": "https://api.laam.my.id/assets/images/skills/typescript.png",
+        "isBlack": false
+      },
+      {
+        "text": "Javascript",
+        "image": "https://api.laam.my.id/assets/images/skills/javscript.png",
+        "isBlack": false
+      },
+      {
+        "text": "PostgreSQL",
+        "image": "https://api.laam.my.id/assets/images/skills/postgresql.png",
+        "isBlack": false
+      },
+      {
+        "text": "MySQL",
+        "image": "https://api.laam.my.id/assets/images/skills/mysql.png",
+        "isBlack": false
+      },
+      {
+        "text": "C#",
+        "image": "https://api.laam.my.id/assets/images/skills/csharp.png",
+        "isBlack": false
+      },
+      {
+        "text": "Teaching",
+        "image": "https://api.laam.my.id/assets/images/skills/teaching.png",
+        "isBlack": true
+      }
+    ]
+  },
+  "experiences": {
+    "text": "Here's a concise overview of my most recent experiences:",
+    "items": [
+      {
+        "logo": "https://api.laam.my.id/assets/images/experiences/happy5.png",
+        "title": "Android Team Lead",
+        "description": "Dedicated Android Team Lead with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
+        "startDate": "2022-06-01",
+        "endDate": null
+      },
+      {
+        "logo": "https://api.laam.my.id/assets/images/experiences/happy5.png",
+        "title": "Android Engineer",
+        "description": "Skilled Android Engineer with a strong background in automating release and testing processes, optimizing codebase through clean architecture, and delivering top-notch mobile applications. Experienced in mentoring and guiding team members to achieve coding excellence.",
+        "startDate": "2020-05-01",
+        "endDate": "2022-05-31"
+      },
+      {
+        "logo": "https://api.laam.my.id/assets/images/experiences/dinas-pendidikan.png",
+        "title": "Guest Teacher",
+        "description": "Engaging Guest Teacher with a mission to make coding enjoyable and competitive. Skilled in teaching databases, Windows form applications, and Android development with Kotlin. Inspiring students at SMKN 10 Jakarta to embrace the fun side of coding and excel in competitions.",
+        "startDate": "2022-06-01",
+        "endDate": "2022-11-30"
+      },
+      {
+        "logo": "https://api.laam.my.id/assets/images/experiences/udagang.png",
+        "title": "Freelance Software Engineer",
+        "description": "Versatile Freelance Software Engineer, proficient in backend development and Android app creation. Organizes and leads teams to deliver efficient, high-quality projects. Specializes in crafting tailored software solutions to meet diverse client needs, ensuring exceptional results and client satisfaction.",
+        "startDate": "2019-12-01",
+        "endDate": "2021-02-30"
+      }
+    ]
+  },
+  "projects": {
+    "text": "Here are a few of the noteworthy projects I've developed:",
+    "items": [
+      {
+        "name": "WIGO Partner",
+        "description": "WIGO Partner simplifies venue management. A comprehensive dashboard offers bookings, sales analytics, and profile configuration for tourism businesses, enhancing efficiency and customer experience.",
+        "technologies": [
+          "Flutter",
+          "Nest.js",
+          "Responsive",
+          "Git",
+          "Dart",
+          "Typescript",
+          "Payment-Gateway"
+        ],
+        "image": "https://api.laam.my.id/assets/images/projects/wigo-partner.png",
+        "link": "https://play.google.com/store/apps/details?id=id.wigo.partner"
+      },
+      {
+        "name": "WIGO App",
+        "description": "WIGO App is your ultimate travel companion. Discover destinations, activities, and dining worldwide with interactive maps and guides. Seamlessly plan and enjoy your journey.",
+        "technologies": [
+          "Flutter",
+          "Nest.js",
+          "Git",
+          "Dart",
+          "Typescript",
+          "Payment-Gateway",
+          "E-Wallet"
+        ],
+        "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
+        "link": "https://play.google.com/store/apps/details?id=id.wigo.app"
+      },
+      {
+        "name": "uDagang",
+        "description": "uDagang, crafted by Indonesian youth, empowers local MSMEs by offering a dynamic marketplace. Explore vibrant communities and seamless integration with social media for a thriving business ecosystem.",
+        "technologies": [
+          "Android",
+          "Node.js",
+          "Git",
+          "Kotlin",
+          "Javascript"
+        ],
+        "image": "https://api.laam.my.id/assets/images/projects/udagang.png",
+        "link": "https://play.google.com/store/apps/details?id=com.imi.udagang"
+      }
+    ]
+  },
+  "contact": {
+    "text": "Looking forward to what's ahead! Whether you're seeking a developer, have questions, or just want to connect, please don't hesitate to reach out.",
+    "email": "marifinluthfi@gmail.com",
+    "others": {
+      "text": "You can also find me on these platforms!",
+      "items": [
+        {
+          "icon": "https://api.laam.my.id/assets/images/contacts/linkedin.svg",
+          "type": "linkedin",
+          "link": "https://linkedin.com/in/luthfiarifin/"
+        },
+        {
+          "icon": "https://api.laam.my.id/assets/images/contacts/github.svg",
+          "type": "github",
+          "link": "https://github.com/luthfiarifin"
+        },
+        {
+          "icon": "https://api.laam.my.id/assets/images/contacts/medium.svg",
+          "type": "medium",
+          "link": "https://medium.com/@luthfiarifin"
+        }
+      ]
+    }
+  },
+  "article": {
+    "text": "Here are some of the articles I've authored:",
+    "items": [
+      {
+        "title": "Flutter Web Responsive: Crafting Adaptive UIs for Mobile, Tablet, and Web",
+        "description": "Unlock the potential of Flutter for web development with responsive design techniques, ensuring a seamless user experience.",
+        "image": "https://api.laam.my.id/assets/images/articles/flutter-responsive.png",
+        "link": "https://medium.com/@luthfiarifin/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
+      },
+      {
+        "title": "Boosting Flutter Productivity Through Modularization",
+        "description": "🚀 The process of dividing a large codebase into smaller, self-contained modules.",
+        "image": "https://api.laam.my.id/assets/images/articles/flutter-modularization.jpg",
+        "link": "https://medium.com/@luthfiarifin/boosting-flutter-productivity-through-modularization-fc494bba82d5"
+      }
+    ],
+    "other": {
+      "title": "Explore",
+      "description": "Ready for more thrilling reads?",
+      "image": "https://api.laam.my.id/assets/images/articles/other.jpg",
+      "link": "https://medium.com/@luthfiarifin"
+    }
+  },
+  "bottom": {
+    "text": "Created with ♥ by [@luthfiarifin](https://www.linkedin.com/in/luthfiarifin/) using [Flutter & Clean Arch](https://github.com/luthfiarifin/personal-app)"
+  }
+}
